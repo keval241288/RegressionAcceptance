@@ -1,0 +1,1110 @@
+2019-02-25 18:44:19,007 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-25 18:44:19,018 [main] INFO Live_Test.Regression - Todays Day:MONDAY
+2019-02-25 18:44:19,019 [main] INFO Live_Test.Regression - Todays Date:February 25,2019 AD
+2019-02-25 18:44:19,020 [main] INFO Live_Test.Regression - Current Time:02:14:19.019 PM Central European Time
+2019-02-25 18:44:23,099 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-25 18:44:26,292 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-25 18:44:28,814 [main] INFO Live_Test.Regression - Bedrijfs beheer Done
+2019-02-25 18:44:33,179 [main] INFO Live_Test.Regression - Companydetails Done
+2019-02-25 18:44:41,378 [main] INFO Live_Test.Regression - Kentekencards Done
+2019-02-25 18:44:45,104 [main] INFO Live_Test.Regression - Autos_in_verkoop Done
+2019-02-25 18:45:00,566 [main] INFO Live_Test.Regression - Open Betalingen, Filter it, click on first pdf, PDF download
+2019-02-25 18:45:07,569 [main] INFO Live_Test.Regression - popup windows pdf is downloaded
+2019-02-25 18:45:12,661 [main] INFO Live_Test.Regression - Betalingen Done
+2019-02-25 18:45:19,213 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-25 18:45:21,356 [main] INFO Live_Test.Regression - Total Number of error:- >  2.250
+2019-02-25 18:45:21,356 [main] INFO Live_Test.Regression - Number of Error pages: -> 45
+2019-02-25 18:45:25,151 [main] INFO Live_Test.Regression - Bedrijfs beheer Done
+2019-02-25 18:45:36,653 [main] INFO Live_Test.Regression - move to switch user
+2019-02-25 18:45:53,559 [main] INFO Live_Test.Regression - pdf download from switch user
+2019-02-25 18:45:53,560 [main] INFO Live_Test.Regression - Companydetails Done
+2019-02-25 18:45:53,560 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-25 18:45:54,049 [main] INFO Live_Test.Regression - Chrome browser:-> Logout done
+2019-02-25 18:45:56,151 [main] INFO Live_Test.Regression - Window is closed
+2019-02-25 18:45:56,151 [main] INFO Live_Test.Regression - Todays Day:MONDAY
+2019-02-25 18:45:56,151 [main] INFO Live_Test.Regression - Todays Date:February 25,2019 AD
+2019-02-25 18:45:56,151 [main] INFO Live_Test.Regression - Current Time:02:15:56.151 PM Central European Time
+2019-02-25 18:45:56,151 [main] INFO Live_Test.Regression - PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE
+2019-02-27 12:18:55,279 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:18:55,324 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:18:55,324 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:18:55,325 [main] INFO Live_Test.Regression - Current Time:07:48:55.324 AM Central European Time
+2019-02-27 12:19:01,155 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:19:04,545 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:19:12,451 [main] INFO Live_Test.Regression - Current Time:07:49:12
+2019-02-27 12:26:22,480 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:26:22,494 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:26:22,495 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:26:22,496 [main] INFO Live_Test.Regression - Current Time:07:56:22.495 AM Central European Time
+2019-02-27 12:26:27,601 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:26:30,657 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:26:37,762 [main] INFO Live_Test.Regression - Current Time:07:56:37
+2019-02-27 12:26:37,861 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:26:39,988 [main] INFO Live_Test.Regression - Total Number of error:- >  1.122
+2019-02-27 12:26:39,988 [main] INFO Live_Test.Regression - Number of Error pages: -> 23
+2019-02-27 12:26:41,990 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 12:26:42,665 [main] INFO Live_Test.Regression - Chrome browser:-> Logout done
+2019-02-27 12:26:44,789 [main] INFO Live_Test.Regression - Window is closed
+2019-02-27 12:26:44,790 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:26:44,790 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:26:44,790 [main] INFO Live_Test.Regression - Current Time:07:56:44.790 AM Central European Time
+2019-02-27 12:26:44,792 [main] INFO Live_Test.Regression - PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE
+2019-02-27 12:29:52,079 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:29:52,090 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:29:52,091 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:29:52,092 [main] INFO Live_Test.Regression - Current Time:07:59:52.091 AM Central European Time
+2019-02-27 12:29:56,727 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:29:59,836 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:30:07,428 [main] INFO Live_Test.Regression - Current Time:08:00:07
+2019-02-27 12:30:07,538 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:37:32,019 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:37:32,036 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:37:32,037 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:37:32,038 [main] INFO Live_Test.Regression - Current Time:08:07:32.038 AM Central European Time
+2019-02-27 12:37:37,283 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:37:40,434 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:37:45,780 [main] INFO Live_Test.Regression - Current Time:08:07:45
+2019-02-27 12:37:45,876 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:37:50,006 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 12:37:50,540 [main] INFO Live_Test.Regression - Chrome browser:-> Logout done
+2019-02-27 12:37:52,659 [main] INFO Live_Test.Regression - Window is closed
+2019-02-27 12:37:52,659 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:37:52,660 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:37:52,660 [main] INFO Live_Test.Regression - Current Time:08:07:52.660 AM Central European Time
+2019-02-27 12:37:52,660 [main] INFO Live_Test.Regression - PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE
+2019-02-27 12:38:35,637 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:38:35,649 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:38:35,649 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:38:35,651 [main] INFO Live_Test.Regression - Current Time:08:08:35.650 AM Central European Time
+2019-02-27 12:38:41,016 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:38:44,130 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:38:49,326 [main] INFO Live_Test.Regression - Current Time:08:08:49
+2019-02-27 12:38:49,428 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:38:53,549 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 12:53:47,727 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:53:47,741 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:53:47,741 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:53:47,742 [main] INFO Live_Test.Regression - Current Time:08:23:47.742 AM Central European Time
+2019-02-27 12:53:52,189 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:53:55,396 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:54:01,145 [main] INFO Live_Test.Regression - Current Time:08:24:00
+2019-02-27 12:54:01,248 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:54:03,372 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 12:54:05,374 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 12:55:57,909 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:55:57,922 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:55:57,923 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:55:57,924 [main] INFO Live_Test.Regression - Current Time:08:25:57.923 AM Central European Time
+2019-02-27 12:56:03,399 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:56:06,503 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:56:11,705 [main] INFO Live_Test.Regression - Current Time:08:26:11
+2019-02-27 12:56:11,799 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:58:42,214 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 12:58:42,226 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 12:58:42,226 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 12:58:42,227 [main] INFO Live_Test.Regression - Current Time:08:28:42.226 AM Central European Time
+2019-02-27 12:58:46,759 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 12:58:49,853 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 12:58:55,512 [main] INFO Live_Test.Regression - Current Time:08:28:55
+2019-02-27 12:58:55,609 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 12:58:57,734 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 12:59:02,322 [main] INFO Live_Test.Regression - Bedrijfs beheer Done
+2019-02-27 12:59:07,883 [main] INFO Live_Test.Regression - Companydetails Done
+2019-02-27 12:59:22,965 [main] INFO Live_Test.Regression - Kentekencards Done
+2019-02-27 12:59:27,369 [main] INFO Live_Test.Regression - Autos_in_verkoop Done
+2019-02-27 12:59:47,478 [main] INFO Live_Test.Regression - Open Betalingen, Filter it, click on first pdf, PDF download
+2019-02-27 12:59:54,469 [main] INFO Live_Test.Regression - popup windows pdf is downloaded
+2019-02-27 12:59:59,538 [main] INFO Live_Test.Regression - Betalingen Done
+2019-02-27 13:00:05,716 [main] INFO Live_Test.Regression - Current Time:08:30:05
+2019-02-27 13:00:05,812 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:01:33,418 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:01:33,438 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:01:33,439 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:01:33,440 [main] INFO Live_Test.Regression - Current Time:08:31:33.439 AM Central European Time
+2019-02-27 13:01:37,816 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:01:41,001 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:01:46,330 [main] INFO Live_Test.Regression - Current Time:01:25:00
+2019-02-27 13:01:46,429 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:01:49,267 [main] INFO Live_Test.Regression - Total Number of error:- >  1.019
+Date & Time Source     Message
+27-feb-2019 01:25:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220824), InvoiceNo:- 000800
+2634 due toPurchase Invoice ZX-C0-03 already exists for this vendor.
+27-feb-2019 01:25:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1500288), InvoiceNo:- 000800
+2524 due toPurchase Invoice 23-NZL-9 already exists for this vendor.
+27-feb-2019 01:25:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220458), InvoiceNo:- 000800
+2362 due toPurchase Invoice 08-KVT-4 already exists for this vendor.
+27-feb-2019 01:25:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1456523), InvoiceNo:- 000800
+2280 due toPurchase Invoice 22-NZL-2 already exists for this vendor.
+27-feb-2019 01:25:13 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1152230), InvoiceNo:- 000800
+0480 due toPurchase Invoice 4-XRD-71 already exists for this vendor.
+27-feb-2019 01:29:40 BGPROC.ANALYSIS Query timeout expired
+27-feb-2019 01:30:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220824), InvoiceNo:- 000800
+2634 due toPurchase Invoice ZX-C0-03 already exists for this vendor.
+27-feb-2019 01:30:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1500288), InvoiceNo:- 000800
+2524 due toPurchase Invoice 23-NZL-9 already exists for this vendor.
+27-feb-2019 01:30:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220458), InvoiceNo:- 000800
+2362 due toPurchase Invoice 08-KVT-4 already exists for this vendor.
+27-feb-2019 01:30:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1456523), InvoiceNo:- 000800
+2280 due toPurchase Invoice 22-NZL-2 already exists for this vendor.
+27-feb-2019 01:30:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1152230), InvoiceNo:- 000800
+0480 due toPurchase Invoice 4-XRD-71 already exists for this vendor.
+27-feb-2019 01:32:10 BGPROC.CARPROTOCOLS Error: Could not find a part of the path 'D:\AutoBLOX.Resources\Images\Kenteken\47\XR\L6\1220154_B1.
+3f189bfd58894e37a8041af18446abc7.jpg'.
+27-feb-2019 01:32:10 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\95\XG\BG\1219975_B1.07688e63b67f41
+22901e279a9508f90d.jpg'.
+27-feb-2019 01:32:11 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\78\XZ\SG\1220059_B1.6671da94142643
+4badad8e9304e2b89d.jpg'.
+27-feb-2019 01:32:11 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\25\XK\HG\1220123_B1.1a64f37c0d1543
+e5bbe76c6bc3edb63f.jpg'.
+27-feb-2019 01:32:11 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\28\GZ\R1\1220253_B1.88940b033ad544
+20b8e336bfa55973b1.jpg'.
+27-feb-2019 01:32:12 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\GR\22\5Z\1219395_B1.d6bee3038d0c44
+6daba492781e54937b.jpg'.
+27-feb-2019 01:32:12 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\84\GT\L7\1220180_B1.87607b7464c94f
+2ab654700940df7bf2.jpg'.
+27-feb-2019 01:32:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\84\KT\N8\1219981_B1.c87778ad536f4a
+a7b55e232afd10c45f.jpg'.
+27-feb-2019 01:32:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\98\TH\NN\1219999_B1.ae2f825430334a
+91ac7cd5d74ff4b368.jpg'.
+27-feb-2019 01:32:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\31\XB\G9\1220051_B1.8dca5463d39f4a
+058cb64268f119fbe6.jpg'.
+27-feb-2019 01:32:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\46\TF\F5\1220152_B1.2cdbf7790dc540
+3b8891722b9b1086d3.jpg'.
+27-feb-2019 01:35:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220824), InvoiceNo:- 000800
+2634 due toPurchase Invoice ZX-C0-03 already exists for this vendor.
+27-feb-2019 01:35:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1500288), InvoiceNo:- 000800
+2524 due toPurchase Invoice 23-NZL-9 already exists for this vendor.
+27-feb-2019 01:35:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220458), InvoiceNo:- 000800
+2362 due toPurchase Invoice 08-KVT-4 already exists for this vendor.
+27-feb-2019 01:35:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1456523), InvoiceNo:- 000800
+2280 due toPurchase Invoice 22-NZL-2 already exists for this vendor.
+27-feb-2019 01:35:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1152230), InvoiceNo:- 000800
+0480 due toPurchase Invoice 4-XRD-71 already exists for this vendor.
+27-feb-2019 01:40:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220824), InvoiceNo:- 000800
+2634 due toPurchase Invoice ZX-C0-03 already exists for this vendor.
+27-feb-2019 01:40:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1500288), InvoiceNo:- 000800
+2524 due toPurchase Invoice 23-NZL-9 already exists for this vendor.
+27-feb-2019 01:40:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220458), InvoiceNo:- 000800
+2362 due toPurchase Invoice 08-KVT-4 already exists for this vendor.
+27-feb-2019 01:40:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1456523), InvoiceNo:- 000800
+2280 due toPurchase Invoice 22-NZL-2 already exists for this vendor.
+27-feb-2019 01:40:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1152230), InvoiceNo:- 000800
+0480 due toPurchase Invoice 4-XRD-71 already exists for this vendor.
+27-feb-2019 01:42:11 BGPROC.CARPROTOCOLS Error: Could not find a part of the path 'D:\AutoBLOX.Resources\Images\Kenteken\47\XR\L6\1220154_B1.
+3f189bfd58894e37a8041af18446abc7.jpg'.
+27-feb-2019 01:42:11 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\95\XG\BG\1219975_B1.07688e63b67f41
+22901e279a9508f90d.jpg'.
+27-feb-2019 01:42:11 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\78\XZ\SG\1220059_B1.6671da94142643
+4badad8e9304e2b89d.jpg'.
+27-feb-2019 01:42:11 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\25\XK\HG\1220123_B1.1a64f37c0d1543
+e5bbe76c6bc3edb63f.jpg'.
+27-feb-2019 01:42:12 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\28\GZ\R1\1220253_B1.88940b033ad544
+20b8e336bfa55973b1.jpg'.
+27-feb-2019 01:42:12 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\GR\22\5Z\1219395_B1.d6bee3038d0c44
+6daba492781e54937b.jpg'.
+27-feb-2019 01:42:12 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\31\XB\G9\1220051_B1.8dca5463d39f4a
+058cb64268f119fbe6.jpg'.
+27-feb-2019 01:42:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\46\TF\F5\1220152_B1.2cdbf7790dc540
+3b8891722b9b1086d3.jpg'.
+27-feb-2019 01:42:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\84\GT\L7\1220180_B1.87607b7464c94f
+2ab654700940df7bf2.jpg'.
+27-feb-2019 01:42:13 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\84\KT\N8\1219981_B1.c87778ad536f4a
+a7b55e232afd10c45f.jpg'.
+27-feb-2019 01:42:14 BGPROC.CARPROTOCOLS Error: Could not find file 'D:\AutoBLOX.Resources\Images\Kenteken\98\TH\NN\1219999_B1.ae2f825430334a
+91ac7cd5d74ff4b368.jpg'.
+27-feb-2019 01:44:40 BGPROC.ANALYSIS Query timeout expired
+27-feb-2019 01:45:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220824), InvoiceNo:- 000800
+2634 due toPurchase Invoice ZX-C0-03 already exists for this vendor.
+27-feb-2019 01:45:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1500288), InvoiceNo:- 000800
+2524 due toPurchase Invoice 23-NZL-9 already exists for this vendor.
+27-feb-2019 01:45:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220458), InvoiceNo:- 000800
+2362 due toPurchase Invoice 08-KVT-4 already exists for this vendor.
+27-feb-2019 01:45:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1456523), InvoiceNo:- 000800
+2280 due toPurchase Invoice 22-NZL-2 already exists for this vendor.
+27-feb-2019 01:45:12 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1152230), InvoiceNo:- 000800
+0480 due toPurchase Invoice 4-XRD-71 already exists for this vendor.
+27-feb-2019 01:50:11 Navision exportPurchaseInvoicesToNavisionWebservice(): unable to export (CarID: 1220824), InvoiceNo:- 000800
+2634 due toPurchase Invoice ZX-C0-03 already exists for this vendor.
+Navigeer pagina: << Eerste < Vorige 12345 ... Volgende > Laatste >> | Pagina 1 
+2019-02-27 13:01:49,288 [main] INFO Live_Test.Regression - Number of Error pages: -> 21
+2019-02-27 13:01:51,290 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 13:21:50,488 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:21:50,500 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:21:50,501 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:21:50,502 [main] INFO Live_Test.Regression - Current Time:08:51:50.501 AM Central European Time
+2019-02-27 13:21:54,797 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:21:57,902 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:22:03,064 [main] INFO Live_Test.Regression - Current Time:01:25:00
+2019-02-27 13:22:03,159 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:23:42,982 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:23:42,993 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:23:42,994 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:23:42,995 [main] INFO Live_Test.Regression - Current Time:08:53:42.994 AM Central European Time
+2019-02-27 13:23:47,761 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:23:50,853 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:23:55,763 [main] INFO Live_Test.Regression - Current Time:01:25:00
+2019-02-27 13:23:55,860 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:23:58,423 [main] INFO Live_Test.Regression - Error generated page 1
+2019-02-27 13:24:00,423 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 13:25:52,045 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:25:52,067 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:25:52,068 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:25:52,069 [main] INFO Live_Test.Regression - Current Time:08:55:52.069 AM Central European Time
+2019-02-27 13:25:56,245 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:25:59,486 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:26:05,709 [main] INFO Live_Test.Regression - Current Time:01:25:00
+2019-02-27 13:26:05,810 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:26:08,357 [main] INFO Live_Test.Regression - Error generated page 1
+2019-02-27 13:26:10,359 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 13:28:31,601 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:28:31,614 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:28:31,615 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:28:31,616 [main] INFO Live_Test.Regression - Current Time:08:58:31.615 AM Central European Time
+2019-02-27 13:28:35,963 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:28:39,261 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:28:44,311 [main] INFO Live_Test.Regression - Current Time:01:25:00
+2019-02-27 13:28:44,409 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:28:46,965 [main] INFO Live_Test.Regression - Total Number of error:- >  1.078
+2019-02-27 13:28:46,965 [main] INFO Live_Test.Regression - Number of Error pages: -> 22
+2019-02-27 13:28:48,965 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 13:29:25,359 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:29:25,371 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:29:25,372 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:29:25,373 [main] INFO Live_Test.Regression - Current Time:08:59:25.372 AM Central European Time
+2019-02-27 13:29:29,810 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:29:32,898 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:29:43,309 [main] INFO Live_Test.Regression - Current Time:08:36:00
+2019-02-27 13:29:43,406 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:32:32,337 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:32:32,350 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:32:32,350 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:32:32,351 [main] INFO Live_Test.Regression - Current Time:09:02:32.351 AM Central European Time
+2019-02-27 13:32:36,606 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:32:39,756 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:32:44,675 [main] INFO Live_Test.Regression - Current Time:08:36:00
+2019-02-27 13:32:44,773 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:32:47,298 [main] INFO Live_Test.Regression - Total Number of error:- >  65
+2019-02-27 13:32:47,298 [main] INFO Live_Test.Regression - Number of Error pages: -> 2
+2019-02-27 13:32:49,300 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 13:33:37,830 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:33:37,841 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:33:37,842 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:33:37,843 [main] INFO Live_Test.Regression - Current Time:09:03:37.842 AM Central European Time
+2019-02-27 13:33:41,989 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:33:45,081 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:33:49,911 [main] INFO Live_Test.Regression - Current Time:08:50:00
+2019-02-27 13:33:50,023 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:40:08,077 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:40:08,093 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:40:08,093 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:40:08,094 [main] INFO Live_Test.Regression - Current Time:09:10:08.094 AM Central European Time
+2019-02-27 13:40:12,558 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:40:15,761 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:40:20,425 [main] INFO Live_Test.Regression - Current Time:08:50:00
+2019-02-27 13:40:20,523 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:42:04,187 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:42:04,202 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:42:04,203 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:42:04,204 [main] INFO Live_Test.Regression - Current Time:09:12:04.203 AM Central European Time
+2019-02-27 13:42:08,435 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:42:11,590 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:42:16,333 [main] INFO Live_Test.Regression - Current Time:08:50:00
+2019-02-27 13:42:16,444 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:43:10,483 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:43:10,497 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:43:10,498 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:43:10,499 [main] INFO Live_Test.Regression - Current Time:09:13:10.498 AM Central European Time
+2019-02-27 13:43:14,793 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:43:17,877 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:43:23,171 [main] INFO Live_Test.Regression - Current Time:08:50:00
+2019-02-27 13:43:23,274 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:43:25,818 [main] INFO Live_Test.Regression - Total Number of error:- >  59
+2019-02-27 13:43:25,819 [main] INFO Live_Test.Regression - Number of Error pages: -> 2
+2019-02-27 13:43:27,819 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 13:43:50,244 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:43:50,265 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:43:50,266 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:43:50,268 [main] INFO Live_Test.Regression - Current Time:09:13:50.267 AM Central European Time
+2019-02-27 13:43:54,975 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:43:58,056 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:44:03,270 [main] INFO Live_Test.Regression - Current Time:08:55:00
+2019-02-27 13:44:03,365 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 13:46:33,615 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 13:46:33,630 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 13:46:33,630 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 13:46:33,631 [main] INFO Live_Test.Regression - Current Time:09:16:33.630 AM Central European Time
+2019-02-27 13:46:37,799 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 13:46:40,870 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 13:46:46,420 [main] INFO Live_Test.Regression - Current Time:08:55:00
+2019-02-27 13:46:46,521 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:44:36,025 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:44:36,038 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:44:36,039 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:44:36,039 [main] INFO Live_Test.Regression - Current Time:10:14:36.039 AM Central European Time
+2019-02-27 14:44:41,392 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:44:44,767 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:44:50,197 [main] INFO Live_Test.Regression - Current Time:08:55:00
+2019-02-27 14:44:50,296 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:44:52,843 [main] INFO Live_Test.Regression - Total Number of error:- >  174
+2019-02-27 14:44:52,843 [main] INFO Live_Test.Regression - Number of Error pages: -> 4
+2019-02-27 14:44:54,843 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 14:46:02,939 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:46:02,960 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:46:02,960 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:46:02,961 [main] INFO Live_Test.Regression - Current Time:10:16:02.961 AM Central European Time
+2019-02-27 14:46:10,029 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:46:13,267 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:46:18,947 [main] INFO Live_Test.Regression - Current Time:10:02:00
+2019-02-27 14:46:19,046 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:48:11,415 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:48:11,442 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:48:11,442 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:48:11,444 [main] INFO Live_Test.Regression - Current Time:10:18:11.444 AM Central European Time
+2019-02-27 14:48:15,939 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:49:14,329 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:49:14,372 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:49:14,373 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:49:14,377 [main] INFO Live_Test.Regression - Current Time:10:19:14.376 AM Central European Time
+2019-02-27 14:49:19,022 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:49:27,047 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:49:31,923 [main] INFO Live_Test.Regression - Current Time:10:02:00
+2019-02-27 14:49:32,031 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:51:46,262 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:51:46,274 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:51:46,275 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:51:46,276 [main] INFO Live_Test.Regression - Current Time:10:21:46.275 AM Central European Time
+2019-02-27 14:51:51,496 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:51:54,725 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:52:00,757 [main] INFO Live_Test.Regression - Current Time:10:02:00
+2019-02-27 14:52:00,859 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:52:03,406 [main] INFO Live_Test.Regression - Total Number of error:- >  53
+2019-02-27 14:52:03,406 [main] INFO Live_Test.Regression - Number of Error pages: -> 2
+2019-02-27 14:52:05,406 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 14:53:40,725 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:53:40,738 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:53:40,738 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:53:40,739 [main] INFO Live_Test.Regression - Current Time:10:23:40.739 AM Central European Time
+2019-02-27 14:53:45,295 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:53:48,371 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:53:55,028 [main] INFO Live_Test.Regression - Current Time:10:02:00
+2019-02-27 14:53:55,128 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:53:57,647 [main] INFO Live_Test.Regression - Total Number of error:- >  64
+2019-02-27 14:53:57,648 [main] INFO Live_Test.Regression - Number of Error pages: -> 2
+2019-02-27 14:53:59,648 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 14:56:04,910 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:56:04,922 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:56:04,924 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:56:04,929 [main] INFO Live_Test.Regression - Current Time:10:26:04.924 AM Central European Time
+2019-02-27 14:56:09,336 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:56:12,466 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:56:17,605 [main] INFO Live_Test.Regression - Current Time:10:10:00
+2019-02-27 14:56:17,705 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 14:56:20,227 [main] INFO Live_Test.Regression - Total Number of error:- >  53
+2019-02-27 14:56:20,228 [main] INFO Live_Test.Regression - Number of Error pages: -> 2
+2019-02-27 14:56:22,229 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 14:57:20,988 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 14:57:20,999 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 14:57:21,000 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 14:57:21,001 [main] INFO Live_Test.Regression - Current Time:10:27:21.000 AM Central European Time
+2019-02-27 14:57:26,323 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 14:57:29,478 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 14:57:36,584 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 14:57:36,683 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:00:09,814 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:00:09,827 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:00:09,827 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:00:09,828 [main] INFO Live_Test.Regression - Current Time:10:30:09.828 AM Central European Time
+2019-02-27 15:00:15,858 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:00:18,963 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:00:24,065 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:00:24,160 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:01:16,423 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:01:16,435 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:01:16,436 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:01:16,436 [main] INFO Live_Test.Regression - Current Time:10:31:16.436 AM Central European Time
+2019-02-27 15:01:23,881 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:01:27,057 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:01:33,668 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:01:33,769 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:02:21,422 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:02:21,435 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:02:21,436 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:02:21,437 [main] INFO Live_Test.Regression - Current Time:10:32:21.436 AM Central European Time
+2019-02-27 15:02:27,280 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:02:30,618 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:02:36,790 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:02:36,895 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:02:37,419 [main] INFO Live_Test.Regression - Total Number of error:- >  35.721
+2019-02-27 15:02:37,419 [main] INFO Live_Test.Regression - Number of Error pages: -> 715
+2019-02-27 15:02:39,420 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:03:31,616 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:03:31,630 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:03:31,630 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:03:31,631 [main] INFO Live_Test.Regression - Current Time:10:33:31.630 AM Central European Time
+2019-02-27 15:03:36,778 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:03:39,930 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:03:45,182 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:03:45,283 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:04:55,668 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:04:55,682 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:04:55,682 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:04:55,683 [main] INFO Live_Test.Regression - Current Time:10:34:55.683 AM Central European Time
+2019-02-27 15:05:00,273 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:05:03,621 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:05:11,256 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:05:11,363 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:06:56,471 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:06:56,491 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:06:56,491 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:06:56,492 [main] INFO Live_Test.Regression - Current Time:10:36:56.492 AM Central European Time
+2019-02-27 15:07:07,267 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:07:10,388 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:08:27,886 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:08:27,906 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:08:27,906 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:08:27,908 [main] INFO Live_Test.Regression - Current Time:10:38:27.907 AM Central European Time
+2019-02-27 15:08:32,611 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:08:35,767 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:08:41,960 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:08:42,060 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:09:33,897 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:09:33,913 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:09:33,913 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:09:33,914 [main] INFO Live_Test.Regression - Current Time:10:39:33.913 AM Central European Time
+2019-02-27 15:09:39,682 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:09:42,752 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:09:50,596 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:09:50,699 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:13:26,636 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:13:26,648 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:13:26,648 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:13:26,649 [main] INFO Live_Test.Regression - Current Time:10:43:26.649 AM Central European Time
+2019-02-27 15:13:33,449 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:13:36,602 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:13:43,816 [main] INFO Live_Test.Regression - Current Time:10:20:59
+2019-02-27 15:13:43,925 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:13:46,461 [main] INFO Live_Test.Regression - Total Number of error:- >  59
+2019-02-27 15:13:46,461 [main] INFO Live_Test.Regression - Number of Error pages: -> 2
+2019-02-27 15:13:48,462 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:14:15,018 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:14:15,030 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:14:15,030 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:14:15,031 [main] INFO Live_Test.Regression - Current Time:10:44:15.031 AM Central European Time
+2019-02-27 15:14:19,571 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:14:22,727 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:14:30,517 [main] INFO Live_Test.Regression - Current Time:10:40:59
+2019-02-27 15:14:30,615 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:15:03,113 [main] INFO Live_Test.Regression - Error generated page 1
+2019-02-27 15:15:05,115 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:23:37,779 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:23:37,801 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:23:37,801 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:23:37,802 [main] INFO Live_Test.Regression - Current Time:10:53:37.802 AM Central European Time
+2019-02-27 15:23:44,386 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:23:47,508 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:23:54,637 [main] INFO Live_Test.Regression - Current Time:10:40:59
+2019-02-27 15:23:54,740 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:24:27,281 [main] INFO Live_Test.Regression - Error generated page 1
+2019-02-27 15:24:29,283 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:26:28,734 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:26:28,748 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:26:28,749 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:26:28,750 [main] INFO Live_Test.Regression - Current Time:10:56:28.749 AM Central European Time
+2019-02-27 15:26:33,210 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:26:36,324 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:26:42,808 [main] INFO Live_Test.Regression - Current Time:10:53:59
+2019-02-27 15:26:42,917 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:27:15,490 [main] INFO Live_Test.Regression - Error generated page 1
+2019-02-27 15:27:17,491 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:31:28,957 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:31:28,971 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:31:28,971 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:31:28,972 [main] INFO Live_Test.Regression - Current Time:11:01:28.972 AM Central European Time
+2019-02-27 15:31:33,498 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:31:36,654 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:31:42,314 [main] INFO Live_Test.Regression - Current Time:10:53:59
+2019-02-27 15:31:42,415 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:32:14,976 [main] INFO Live_Test.Regression - Error generated page 1
+2019-02-27 15:32:16,976 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:36:07,903 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:36:07,922 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:36:07,923 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:36:07,924 [main] INFO Live_Test.Regression - Current Time:11:06:07.923 AM Central European Time
+2019-02-27 15:36:12,675 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:36:15,900 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:36:23,668 [main] INFO Live_Test.Regression - Current Time:11:06:23
+2019-02-27 15:36:23,787 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:36:58,317 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:42:52,565 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:42:52,566 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:42:52,566 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:42:52,566 [main] INFO Live_Test.Regression - Current Time:11:12:52.566 AM Central European Time
+2019-02-27 15:42:58,025 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:43:01,397 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:43:07,279 [main] INFO Live_Test.Regression - Current Time:11:13:06
+2019-02-27 15:43:07,379 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:43:41,889 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:45:44,927 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:45:44,939 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:45:44,940 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:45:44,941 [main] INFO Live_Test.Regression - Current Time:11:15:44.940 AM Central European Time
+2019-02-27 15:45:49,308 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:45:52,545 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:45:58,194 [main] INFO Live_Test.Regression - Current Time:11:15:57
+2019-02-27 15:45:58,304 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:46:32,831 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:48:50,762 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:48:50,783 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:48:50,783 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:48:50,785 [main] INFO Live_Test.Regression - Current Time:11:18:50.784 AM Central European Time
+2019-02-27 15:48:55,358 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:48:58,617 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:49:05,516 [main] INFO Live_Test.Regression - Current Time:11:19:05
+2019-02-27 15:49:05,652 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:50:25,271 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:50:25,283 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:50:25,284 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:50:25,285 [main] INFO Live_Test.Regression - Current Time:11:20:25.284 AM Central European Time
+2019-02-27 15:50:29,673 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:50:32,809 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:50:38,051 [main] INFO Live_Test.Regression - Current Time:11:25:59
+2019-02-27 15:50:38,153 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:51:12,726 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:54:09,977 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:54:09,995 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:54:09,996 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:54:09,997 [main] INFO Live_Test.Regression - Current Time:11:24:09.996 AM Central European Time
+2019-02-27 15:54:14,290 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:54:17,491 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:54:22,821 [main] INFO Live_Test.Regression - Current Time:11:25:59
+2019-02-27 15:54:22,919 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:56:14,326 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:56:14,338 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:56:14,339 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:56:14,340 [main] INFO Live_Test.Regression - Current Time:11:26:14.339 AM Central European Time
+2019-02-27 15:56:18,957 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:56:22,138 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:56:28,634 [main] INFO Live_Test.Regression - Current Time:11:25:59
+2019-02-27 15:56:28,732 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:57:01,295 [main] INFO Live_Test.Regression - Error generated on page 1. Number of Errors are = 5
+2019-02-27 15:57:03,295 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:57:13,957 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:57:13,968 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:57:13,969 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:57:13,973 [main] INFO Live_Test.Regression - Current Time:11:27:13.969 AM Central European Time
+2019-02-27 15:57:18,367 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:57:21,538 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:57:28,579 [main] INFO Live_Test.Regression - Current Time:11:50:59
+2019-02-27 15:57:28,704 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:58:03,293 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 15:58:44,063 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 15:58:44,077 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 15:58:44,077 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 15:58:44,078 [main] INFO Live_Test.Regression - Current Time:11:28:44.077 AM Central European Time
+2019-02-27 15:58:48,638 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 15:58:51,770 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 15:58:57,507 [main] INFO Live_Test.Regression - Current Time:11:50:59
+2019-02-27 15:58:57,610 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 15:58:58,155 [main] INFO Live_Test.Regression - Total Number of error:- >  38.793
+2019-02-27 15:58:58,155 [main] INFO Live_Test.Regression - Number of Error pages: -> 776
+2019-02-27 15:59:00,156 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 16:00:17,016 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 16:00:17,028 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 16:00:17,029 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 16:00:17,030 [main] INFO Live_Test.Regression - Current Time:11:30:17.029 AM Central European Time
+2019-02-27 16:00:21,398 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 16:00:24,562 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 16:00:30,668 [main] INFO Live_Test.Regression - Current Time:11:50:59
+2019-02-27 16:00:30,774 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 16:00:31,504 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 16:00:33,506 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 16:01:06,963 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 16:01:06,975 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 16:01:06,976 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 16:01:06,977 [main] INFO Live_Test.Regression - Current Time:11:31:06.976 AM Central European Time
+2019-02-27 16:01:11,454 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 16:01:14,788 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 16:01:20,415 [main] INFO Live_Test.Regression - Current Time:11:25:59
+2019-02-27 16:01:20,522 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 16:02:20,745 [main] INFO Live_Test.Regression - Error generated on page 1. Number of Errors are = 11
+2019-02-27 16:02:22,747 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 16:57:08,766 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 16:57:08,771 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 16:57:08,771 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 16:57:08,772 [main] INFO Live_Test.Regression - Current Time:12:27:08.771 PM Central European Time
+2019-02-27 16:57:13,461 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 16:57:16,645 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 16:57:22,814 [main] INFO Live_Test.Regression - Current Time:12:27:22
+2019-02-27 16:57:22,915 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 16:57:23,571 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 16:57:25,572 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 16:59:02,130 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 16:59:02,152 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 16:59:02,154 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 16:59:02,155 [main] INFO Live_Test.Regression - Current Time:12:29:02.155 PM Central European Time
+2019-02-27 16:59:06,318 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 16:59:09,420 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 16:59:15,941 [main] INFO Live_Test.Regression - Current Time:12:28:57
+2019-02-27 16:59:16,042 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 16:59:16,830 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 16:59:18,831 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 17:01:26,304 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 17:01:26,308 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 17:01:26,309 [main] INFO Live_Test.Regression - Todays Date:February 27,2019 AD
+2019-02-27 17:01:26,309 [main] INFO Live_Test.Regression - Current Time:12:31:26
+2019-02-27 17:01:30,494 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 17:01:33,645 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 17:01:39,833 [main] INFO Live_Test.Regression - Current Time:12:31:21
+2019-02-27 17:01:39,942 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 17:01:40,527 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 17:01:42,528 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 17:03:52,716 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 17:03:52,729 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 17:03:52,730 [main] INFO Live_Test.Regression - Todays Date:February 27,2019
+2019-02-27 17:03:52,730 [main] INFO Live_Test.Regression - Current Time:12:33:52
+2019-02-27 17:03:57,003 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 17:04:00,210 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 17:04:06,302 [main] INFO Live_Test.Regression - Current Time:12:34:06
+2019-02-27 17:04:06,402 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 17:04:07,053 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 17:04:09,054 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 17:04:09,054 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 17:04:09,055 [main] INFO Live_Test.Regression - Todays Date:February 27,2019
+2019-02-27 17:04:09,057 [main] INFO Live_Test.Regression - Current Time:12:34:09
+2019-02-27 17:04:09,057 [main] INFO Live_Test.Regression - PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE
+2019-02-27 17:06:12,771 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 17:06:12,783 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 17:06:12,783 [main] INFO Live_Test.Regression - Todays Date:February 27,2019
+2019-02-27 17:06:12,784 [main] INFO Live_Test.Regression - Current Time:12:36:12
+2019-02-27 17:06:16,909 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 17:06:19,978 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 17:06:25,186 [main] INFO Live_Test.Regression - Current Time:
+2019-02-27 17:06:25,280 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 17:06:57,833 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-27 17:06:57,844 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 17:06:57,844 [main] INFO Live_Test.Regression - Todays Date:February 27,2019
+2019-02-27 17:06:57,845 [main] INFO Live_Test.Regression - Current Time:12:36:57
+2019-02-27 17:07:02,397 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-27 17:07:05,508 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-27 17:07:11,835 [main] INFO Live_Test.Regression - Current Time:12:36:57
+2019-02-27 17:07:11,928 [main] INFO Live_Test.Regression - Chrome browser:-> Systemlog >> error selected
+2019-02-27 17:07:12,547 [main] INFO Live_Test.Regression - No error generated
+2019-02-27 17:07:14,548 [main] INFO Live_Test.Regression - Basic links are Done
+2019-02-27 17:07:14,549 [main] INFO Live_Test.Regression - Todays Day:WEDNESDAY
+2019-02-27 17:07:14,549 [main] INFO Live_Test.Regression - Todays Date:February 27,2019
+2019-02-27 17:07:14,549 [main] INFO Live_Test.Regression - Current Time:12:37:14
+2019-02-27 17:07:14,550 [main] INFO Live_Test.Regression - PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE
+2019-02-28 17:37:59,889 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 17:37:59,963 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 17:37:59,963 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 17:37:59,964 [main] INFO Live_Test.Regression - Current Time:01:07:59
+2019-02-28 17:38:07,048 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 17:38:13,906 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 17:38:22,946 [main] INFO Live_Test.carSearchandCreate - click on create new Company
+2019-02-28 17:38:25,248 [main] INFO Live_Test.carSearchandCreate - Company Name Inserted
+2019-02-28 17:38:27,432 [main] INFO Live_Test.carSearchandCreate - Code Inserted
+2019-02-28 17:38:29,673 [main] INFO Live_Test.carSearchandCreate - Keknumber Inserted
+2019-02-28 17:40:14,518 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 17:40:14,530 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 17:40:14,530 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 17:40:14,531 [main] INFO Live_Test.Regression - Current Time:01:10:14
+2019-02-28 17:40:18,796 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 17:40:22,163 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 17:40:22,522 [main] INFO Live_Test.Regression - 
+2019-02-28 17:40:24,635 [main] INFO Live_Test.Regression - click on Create car button
+2019-02-28 17:40:26,729 [main] INFO Live_Test.Regression - insert car number:->  
+2019-02-28 17:40:31,797 [main] INFO Live_Test.Regression - click on Owner Workflow
+2019-02-28 17:40:36,799 [main] INFO Live_Test.Regression - move on frame
+2019-02-28 17:40:41,968 [main] INFO Live_Test.Regression - select administration Company - All
+2019-02-28 17:40:47,280 [main] INFO Live_Test.Regression - inserted company name
+2019-02-28 17:40:52,368 [main] INFO Live_Test.Regression - click on Search button
+2019-02-28 17:41:02,465 [main] INFO Live_Test.Regression - Company selected
+2019-02-28 17:41:12,589 [main] INFO Live_Test.Regression - workflow selected
+2019-02-28 17:41:17,712 [main] INFO Live_Test.Regression - retrive car data
+2019-02-28 17:41:22,798 [main] INFO Live_Test.Regression - click on next
+2019-02-28 17:45:17,601 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 17:45:17,617 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 17:45:17,617 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 17:45:17,617 [main] INFO Live_Test.Regression - Current Time:01:15:17
+2019-02-28 17:45:21,902 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 17:45:41,353 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 17:46:54,988 [main] INFO Live_Test.Regression - 
+2019-02-28 17:47:13,753 [main] INFO Live_Test.Regression - click on Create car button
+2019-02-28 17:47:15,870 [main] INFO Live_Test.Regression - insert car number:->  
+2019-02-28 17:47:20,950 [main] INFO Live_Test.Regression - click on Owner Workflow
+2019-02-28 17:47:25,953 [main] INFO Live_Test.Regression - move on frame
+2019-02-28 17:47:31,104 [main] INFO Live_Test.Regression - select administration Company - All
+2019-02-28 17:57:42,558 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 17:57:42,578 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 17:57:42,579 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 17:57:42,580 [main] INFO Live_Test.Regression - Current Time:01:27:42
+2019-02-28 17:57:46,701 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 17:57:49,848 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 17:57:54,441 [main] INFO Live_Test.Regression - 
+2019-02-28 17:57:54,522 [main] INFO Live_Test.Regression - insert car number:->  
+2019-02-28 17:57:59,603 [main] INFO Live_Test.Regression - click on next
+2019-02-28 17:58:18,426 [main] INFO Live_Test.Regression - 
+2019-02-28 17:59:54,026 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 17:59:54,039 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 17:59:54,039 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 17:59:54,039 [main] INFO Live_Test.Regression - Current Time:01:29:54
+2019-02-28 17:59:58,337 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:00:01,476 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:00:05,595 [main] INFO Live_Test.Regression - 
+2019-02-28 18:00:05,677 [main] INFO Live_Test.Regression - insert car number:->  
+2019-02-28 18:00:10,763 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:00:44,703 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:00:44,716 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:00:44,716 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:00:44,717 [main] INFO Live_Test.Regression - Current Time:01:30:44
+2019-02-28 18:00:48,806 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:00:51,973 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:00:56,143 [main] INFO Live_Test.Regression - 
+2019-02-28 18:00:56,225 [main] INFO Live_Test.Regression - insert car number:->  
+2019-02-28 18:01:01,307 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:01:14,761 [main] INFO Live_Test.Regression - 
+2019-02-28 18:03:48,808 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:03:48,829 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:03:48,829 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:03:48,830 [main] INFO Live_Test.Regression - Current Time:01:33:48
+2019-02-28 18:03:53,327 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:03:56,472 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:04:00,772 [main] INFO Live_Test.Regression - 
+2019-02-28 18:04:00,888 [main] INFO Live_Test.Regression - 
+2019-02-28 18:04:00,997 [main] INFO Live_Test.Regression - 
+2019-02-28 18:04:01,129 [main] INFO Live_Test.Regression - 
+2019-02-28 18:04:01,231 [main] INFO Live_Test.Regression - 
+2019-02-28 18:05:53,085 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:05:53,102 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:05:53,102 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:05:53,102 [main] INFO Live_Test.Regression - Current Time:01:35:53
+2019-02-28 18:05:57,245 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:06:00,443 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:06:04,857 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:06:04,967 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:06:05,080 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:06:05,212 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:06:05,330 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:07:13,247 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:07:13,262 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:07:13,262 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:07:13,263 [main] INFO Live_Test.Regression - Current Time:01:37:13
+2019-02-28 18:07:18,128 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:07:21,319 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:07:25,484 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:07:25,662 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:07:30,743 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:09:43,184 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:09:43,198 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:09:43,198 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:09:43,199 [main] INFO Live_Test.Regression - Current Time:01:39:43
+2019-02-28 18:09:47,305 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:09:50,466 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:09:54,972 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:09:55,128 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:10:00,217 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:10:40,354 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:10:40,569 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:10:50,657 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:11:00,706 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:11:00,706 [main] INFO Live_Test.Regression - Car Number is in Autoblox
+2019-02-28 18:11:05,838 [main] INFO Live_Test.Regression - NF878R
+2019-02-28 18:11:05,993 [main] INFO Live_Test.Regression - insert car number:->  NF878R
+2019-02-28 18:11:16,078 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:11:56,169 [main] INFO Live_Test.Regression - NJ483L
+2019-02-28 18:11:56,359 [main] INFO Live_Test.Regression - insert car number:->  NJ483L
+2019-02-28 18:12:06,513 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:12:46,835 [main] INFO Live_Test.Regression - NS237D
+2019-02-28 18:12:46,999 [main] INFO Live_Test.Regression - insert car number:->  NS237D
+2019-02-28 18:12:57,094 [main] INFO Live_Test.Regression - click on next
+2019-02-28 18:13:52,581 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:13:52,592 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:13:52,592 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:13:52,593 [main] INFO Live_Test.Regression - Current Time:01:43:52
+2019-02-28 18:13:56,774 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:13:59,919 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:14:04,816 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:14:05,007 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:14:10,109 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:14:44,251 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:14:44,449 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:14:49,548 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:14:53,591 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:14:53,592 [main] INFO Live_Test.Regression - Car Number is in Autoblox
+2019-02-28 18:14:58,745 [main] INFO Live_Test.Regression - NF878R
+2019-02-28 18:14:58,924 [main] INFO Live_Test.Regression - insert car number:->  NF878R
+2019-02-28 18:15:04,010 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:15:23,564 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:15:23,584 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:15:23,585 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:15:23,585 [main] INFO Live_Test.Regression - Current Time:01:45:23
+2019-02-28 18:15:27,710 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:15:30,864 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:15:34,473 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:16:21,407 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:16:21,421 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:16:21,421 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:16:21,422 [main] INFO Live_Test.Regression - Current Time:01:46:21
+2019-02-28 18:16:25,719 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:16:28,878 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:16:33,983 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:16:34,142 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:16:39,218 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:17:13,469 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:17:13,639 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:17:18,721 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:17:22,759 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:17:22,761 [main] INFO Live_Test.Regression - Car Number is in Autoblox
+2019-02-28 18:17:27,899 [main] INFO Live_Test.Regression - NF878R
+2019-02-28 18:17:28,096 [main] INFO Live_Test.Regression - insert car number:->  NF878R
+2019-02-28 18:17:33,164 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:19:28,516 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:19:28,530 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:19:28,530 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:19:28,531 [main] INFO Live_Test.Regression - Current Time:01:49:28
+2019-02-28 18:19:32,805 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:19:35,929 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:19:39,964 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:19:40,122 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:19:45,211 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:22:14,562 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:22:14,575 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:22:14,575 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:22:14,575 [main] INFO Live_Test.Regression - Current Time:01:52:14
+2019-02-28 18:22:18,782 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:22:22,060 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:22:26,001 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:22:26,166 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:22:31,244 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:23:05,283 [main] INFO Live_Test.Regression - 
+
+
+****************New car create with this licence numberNB372J
+2019-02-28 18:23:10,387 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:23:10,579 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:23:15,684 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:23:19,725 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:23:19,726 [main] INFO Live_Test.Regression - Car Number is in Autoblox
+2019-02-28 18:24:22,156 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:24:22,164 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:24:22,164 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:24:22,164 [main] INFO Live_Test.Regression - Current Time:01:54:22
+2019-02-28 18:24:26,396 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:24:29,712 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:24:34,609 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:24:34,785 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:24:34,852 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:25:08,908 [main] INFO Live_Test.Regression - Car Number is in Autoblox
+2019-02-28 18:25:11,024 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:25:11,201 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:25:11,284 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:25:15,318 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:25:15,318 [main] INFO Live_Test.Regression - 
+
+
+****************New car create with this licence numberNB3722
+2019-02-28 18:25:17,433 [main] INFO Live_Test.Regression - NF878R
+2019-02-28 18:25:17,639 [main] INFO Live_Test.Regression - insert car number:->  NF878R
+2019-02-28 18:25:17,701 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:25:51,725 [main] INFO Live_Test.Regression - Car Number is in Autoblox
+2019-02-28 18:31:20,033 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:31:20,047 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:31:20,048 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:31:20,049 [main] INFO Live_Test.Regression - Current Time:02:01:20
+2019-02-28 18:31:24,196 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:31:27,389 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:31:31,467 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:31:31,647 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:31:31,716 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:32:05,769 [main] INFO Live_Test.Regression - NB372J<--This Car Number is in Autoblox
+2019-02-28 18:32:07,884 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:32:08,081 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:32:13,167 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:32:17,229 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:32:17,229 [main] INFO Live_Test.Regression - 
+
+
+****************New car create with this licence number -->NB3722
+2019-02-28 18:32:19,366 [main] INFO Live_Test.Regression - NF878R
+2019-02-28 18:32:19,561 [main] INFO Live_Test.Regression - insert car number:->  NF878R
+2019-02-28 18:32:24,062 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:32:58,120 [main] INFO Live_Test.Regression - NF878R<--This Car Number is in Autoblox
+2019-02-28 18:33:26,422 [main] INFO Live_Test.Regression - 
+ Script Start Time 
+
+2019-02-28 18:33:26,435 [main] INFO Live_Test.Regression - Todays Day:THURSDAY
+2019-02-28 18:33:26,436 [main] INFO Live_Test.Regression - Todays Date:February 28,2019
+2019-02-28 18:33:26,436 [main] INFO Live_Test.Regression - Current Time:02:03:26
+2019-02-28 18:33:31,529 [main] INFO Live_Test.Regression - Chrome browser:-> open browser and open URL
+2019-02-28 18:33:34,788 [main] INFO Live_Test.Regression - Chrome browser:-> login done
+2019-02-28 18:33:39,509 [main] INFO Live_Test.Regression - NB372J
+2019-02-28 18:33:39,694 [main] INFO Live_Test.Regression - insert car number:->  NB372J
+2019-02-28 18:33:39,762 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:34:13,810 [main] INFO Live_Test.Regression - NB372J<--This Car Number is in Autoblox
+2019-02-28 18:34:15,914 [main] INFO Live_Test.Regression - NB3722
+2019-02-28 18:34:16,084 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:34:16,161 [main] INFO Live_Test.Regression - search car
+2019-02-28 18:34:20,202 [main] INFO Live_Test.Regression - Geen data
+2019-02-28 18:34:20,202 [main] INFO Live_Test.Regression - 
+
+
+****************New car create with this licence number -->NB3722
+2019-02-28 18:34:28,849 [main] INFO Live_Test.Regression - click on Create car button
+2019-02-28 18:34:31,007 [main] INFO Live_Test.Regression - insert car number:->  NB3722
+2019-02-28 18:34:36,098 [main] INFO Live_Test.Regression - click on Owner Workflow
+2019-02-28 18:34:41,098 [main] INFO Live_Test.Regression - move on frame
+2019-02-28 18:34:46,228 [main] INFO Live_Test.Regression - select administration Company - All
