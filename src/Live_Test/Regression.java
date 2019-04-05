@@ -47,7 +47,7 @@ public class Regression  {
 		//Create_company_and_workflow.companyWorkflow();
 	  	
 	  	
-	  	carSearchandCreate.carsearch();
+	  	//carSearchandCreate.carsearch();
 	  	
 	  	
 		
@@ -66,7 +66,7 @@ public class Regression  {
 
 
 
-		/*basic_scenario.open_links();
+		basic_scenario.open_links();
 		logger.info("Basic links are Done");
 		basic_scenario.logout();
 		logger.info("Chrome browser:-> " + "Logout done");
@@ -75,7 +75,7 @@ public class Regression  {
 		logger.info("Window is closed");
 		System.out.println("\n Script End Time \n");
 		ObtainDate.enddate();
-		logger.info("PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE");*/
+		logger.info("PLEASE CHECK DOWNLOAD FOLDER FOR DOWNLOADED PDF FILE");
 	}
 
 	@After

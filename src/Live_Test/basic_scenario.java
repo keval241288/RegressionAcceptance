@@ -26,7 +26,28 @@ public  class basic_scenario extends Regression {
 	final static Logger logger = Logger.getLogger(Regression.class);
 
 
+	public static   void open_links() throws Exception
+	{
 
+		currentimeErrorlog();
+		Thread.sleep(2000);
+		clickon_Bedrijfs_beheer(); 
+		Thread.sleep(2000);
+		clickon_Companydetails();
+		Thread.sleep(2000);
+		clickon_Kentekencards();
+		Thread.sleep(2000);
+		clickon_Autos_in_verkoop();
+		Thread.sleep(2000);
+		clickon_Betalingen();
+		Thread.sleep(2000);
+		currentimeErrorlog();
+		Thread.sleep(2000);
+		switchuser();
+
+
+	}
+	
 	public static void Chrome_loginid() throws Throwable  
 	{
 
@@ -77,28 +98,7 @@ public  class basic_scenario extends Regression {
 
 	}
 
-	public static   void open_links() throws Exception
-	{
-
-
-		Systemlog();
-		Thread.sleep(2000);
-		clickon_Bedrijfs_beheer(); 
-		Thread.sleep(2000);
-		clickon_Companydetails();
-		Thread.sleep(2000);
-		clickon_Kentekencards();
-		Thread.sleep(2000);
-		clickon_Autos_in_verkoop();
-		Thread.sleep(2000);
-		clickon_Betalingen();
-		Thread.sleep(2000);
-		currentimeErrorlog();
-		Thread.sleep(2000);
-		switchuser();
-
-
-	}
+	
 
 	public static  void Systemlog() throws Exception 
 	{
@@ -113,6 +113,8 @@ public  class basic_scenario extends Regression {
 		logger.info("Chrome browser:-> " + "Systemlog >> error selected");
 		driver.findElement(By.xpath ("//*[@id='ctl00_cphContent_ibSearch']")).click();
 		Thread.sleep(2000);
+		
+		
 		String s = driver.findElement(By.xpath("/html//form[@id='aspnetForm']//table[@class='PageContent']//td[@class='ContentPageHeader']/div/div/div/div[2]/table[@class='MasterTable_SO']/tbody/tr[1]/td")).getText();  
 		//System.out.println(s);
 
